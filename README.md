@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">A passionate SOC L1 Analyst from Turkey</h3>
 
-- 🌱 I’m currently learning **Blue Teaming**
+- I’m currently learning **Blue Teaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
