@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">A passionate SOC L1 Analyst from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vxshellew&label=Profile%20views&color=0e75b6&style=flat" alt="vxshellew" /> </p>
-
-<p align="left"> <a href="https://twitter.com/manjaronur_iso" target="blank"><img src="https://img.shields.io/twitter/follow/manjaronur_iso?logo=twitter&style=for-the-badge" alt="manjaronur_iso" /></a> </p>
-
 - 🌱 I’m currently learning **Blue Teaming**
 
 <h3 align="left">Connect with me:</h3>
